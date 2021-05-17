@@ -4,14 +4,26 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Simple World Time App made by following TheNetNinja's Flutter Basics Tutorial.
 
-A few resources to get you started if this is your first Flutter project:
+Links that I Used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Playlist of Flutter Basics by TheNetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [Pub.dev Website to get all the external libraries to build this app](https://pub.dev/)
+- [Night Time Background Used](https://pngtree.com/freebackground/night-moon-planet-mobile-phone-end-h5-background_1067689.html)
+- [Day Time background Used](https://pngtree.com/freebackground/night-moon-planet-mobile-phone-end-h5-background_1067689.html)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#LOADING SCREEN
+
+![alt text](https://i.ibb.co/sPq0GK2/Screenshot-20210517-212421.jpg)
+
+#Time Display (DAY and NIGHT)
+
+![alt text](https://i.ibb.co/yR9jwbX/Screenshot-20210517-212513.jpg)
+
+![alt text](https://i.ibb.co/tQZw91B/Screenshot-20210517-212703.jpg)
+
+#List View
+![alt text](https://i.ibb.co/3WKR8qJ/Screenshot-20210517-212527.jpg)
+
 # world_time
